@@ -1,0 +1,35 @@
+# Retro 74 — avocado/chartreuse and aubergine inspired by 1970s automotive paint,
+# vinyl interiors, amber instruments, and warm parchment upholstery.
+mode = "dark"
+
+accent = "#B7D43D"
+selection = "#563272"
+selection_foreground = "#FFF4D6"
+selection_background = "#563272"
+muted = "#806294"
+
+background = "#180A29"
+dark_background = "#10051C"
+darker_background = "#09020F"
+lighter_background = "#30144A"
+
+foreground = "#F2E7C9"
+dark_foreground = "#9B879F"
+light_foreground = "#D6C5D2"
+bright_foreground = "#FFF4D6"
+
+red = "#D85F3F"
+yellow = "#D8AA3B"
+orange = "#D97A34"
+green = "#9DBB35"
+cyan = "#5EA89B"
+blue = "#668BB0"
+magenta = "#A85AA3"
+brown = "#875438"
+
+bright_red = "#F07850"
+bright_yellow = "#F0C956"
+bright_green = "#B7D43D"
+bright_cyan = "#7AC3B4"
+bright_blue = "#86A8CA"
+bright_magenta = "#CC75C3"
