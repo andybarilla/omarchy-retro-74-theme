@@ -7,6 +7,8 @@ vinyl interiors, amber instrument panels, and warm parchment upholstery.
 
 ## Palette
 
+![Retro 74 color palette](assets/palette.png)
+
 | Role | Color | Hex |
 |---|---:|---:|
 | Background | Deep aubergine | `#180A29` |
